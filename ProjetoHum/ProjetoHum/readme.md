@@ -10,4 +10,10 @@ O Projeto Hum visa [descrever o objetivo principal do projeto, como desenvolver 
 - [Funcionalidade 2]: Descrição da funcionalidade 2.
 - [Funcionalidade 3]: Descrição da funcionalidade 3.
 - ...
-- 
+- [Funcionalidade N]: Descrição da funcionalidade N.
+
+## Tecnologias Utilizadas
+
+- [Tecnologia 1]: Descrição da tecnologia 1.
+- [Tecnologia 2]: Descrição da tecnologia 2.
+- [Tecnologia 3]: Descrição da tecnologia 3.
